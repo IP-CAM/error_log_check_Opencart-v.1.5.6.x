@@ -2,7 +2,7 @@
 
 Simple module which checks the error file (error.txt) when its size exceeds 1MB and notify you.
 
-View vqmod file 
+View vqmod file https://github.com/rpenchev/error_log_check_opencart/blob/master/error_log_check_and_alert.xml
 
 or
 
