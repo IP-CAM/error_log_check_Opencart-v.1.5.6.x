@@ -8,7 +8,7 @@ or
 
 add thist code in /admin/view/template/common/header.tpl after all code
 
-<style type="text/css">
+		<style type="text/css">
 			#content {
 			padding-top: 20px!important;
 			}
@@ -17,7 +17,7 @@ add thist code in /admin/view/template/common/header.tpl after all code
 			margin-top: 4px;
 			margin-left: 30px;
 			}
-			</style>
+		</style>
 			
 	<?php
 	
